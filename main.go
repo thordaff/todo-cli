@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/Thordaff/todo-cli/todo"
+	"github.com/thordaff/todo-cli/todo"
 
 )
 
